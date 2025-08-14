@@ -16,22 +16,6 @@
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "aiqiyi": {
-	  "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "name": "爱奇艺资源站采集接口"
-    },
-	"baidu": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度云资源"
-    },
-	"ckzy": {
-      "api": "https://www.ckzy1.com/api.php/provide/vod",
-      "name": "CK资源"
-    },
-	"jinma":{        
-	  "api": "https://api.jmzy.com/api.php/provide/vod",
-      "name": "金马资源网采集接口"
-    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
@@ -116,7 +100,7 @@
     },
     "huangcang": {
       "api": "https://hsckzy.vip/api.php/provide/vod",
-      "name": "黄色仓库"
+      "name": "hs仓库"
     },
     "thzy": {
       "api": "https://thzy1.me/api.php/provide/vod",
