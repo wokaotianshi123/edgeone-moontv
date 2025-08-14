@@ -1,7 +1,7 @@
 {
   "homepage_password": "666666",
-  "douban_proxy": "",
-  "image_proxy": "",
+  "douban_proxy": "https://cfkua.wokaotianshi.eu.org/",
+  "image_proxy": "https://cfkua.wokaotianshi.eu.org/",
   "downstream_proxy": "https://cfkua.wokaotianshi.eu.org/",
   "cache_time": 7200,
   "api_site": {
