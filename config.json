@@ -1,5 +1,8 @@
 {
   "homepage_password": "666666",
+  "douban_proxy": "",
+  "image_proxy": "",
+  "downstream_proxy": "",
   "cache_time": 7200,
   "api_site": {
 	    "dyttzy": {
